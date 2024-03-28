@@ -10,7 +10,7 @@ const HeaderSocials = () => {
 
         <a href="https://in.linkedin.com/in/chinmay-deotale-5a7361240" target="_blank" rel='noreferrer'><BsLinkedin/></a>
         <a href="https://github.com/DeotaleChinmay2001" target="_blank" rel='noreferrer'><BsGithub/></a>
-        <a href="https://medium.com/@thakshiladb2000" target="_blank" rel='noreferrer'><BsMailbox/></a>
+        <a href="mailto:deotalechinmay06@gmail.com" target="_blank" rel='noreferrer'><BsMailbox/></a>
     </div>
   )
 }
